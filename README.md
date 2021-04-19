@@ -1,4 +1,6 @@
-# MyApp
+# 01-Hola_mundo_Angular
+
+Hello world project wit Angular.js
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.2.
 
